@@ -1,0 +1,40 @@
+.btn{
+    margin-left: 70%;
+    width: 120px;
+}
+.sale{
+    position: absolute;
+    left: 170px;
+    top: 0.5rem;
+}
+img{
+    width: 20px;
+}
+.content{
+    height: 300px;
+    background-color: black;
+    color: white;
+    font-weight: 20em;
+}
+.content1{
+    margin-top: 90px;
+}
+.color{
+    color: lightgrey;
+}
+.button{
+    margin: 40px 50px 0px 0px;
+    
+}
+.button1{
+    margin: 70px 5px 0px 0px;
+} 
+.foot{
+    height: 100px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.foot1{
+    margin-top: 30px;
+}
